@@ -1,0 +1,35 @@
+#footer
+{
+	display: flex;
+	justify-content: space-between;
+	
+}
+
+footer ul li
+{
+	list-style: url('images/flechee.png');
+	font-size: small;
+
+}
+
+
+#mesamis
+{
+	display: flex;
+	flex-direction: column;
+
+	
+}
+.tkt
+{
+	display: flex;
+
+	
+}
+
+
+
+{
+	font-weight: normal;
+}
+

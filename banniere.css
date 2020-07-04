@@ -1,0 +1,48 @@
+
+
+#banniereimage
+{
+	margin-top: 10px;
+	color: white;
+	display: flex;
+	text-align: center;
+	height: 200px;
+	background : url('images/sanfrancisco.jpg');
+	border: 1px blue solid;
+	border-radius: 10px;
+	justify-content: space-between;
+	margin-bottom: 30px;
+}
+
+
+
+#bannieredesc
+{
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+	position: relative;
+	padding-left: 10px;
+	margin-bottom: 20px;
+}
+
+.boutonrouge
+{
+	height: 25px;
+
+	text-align: right;
+	position: absolute;
+	background: url('images/fond_degraderouge.png') repeat-x; 
+	right: -550px;
+	bottom: -20px;
+}
+
+#banniereimage a
+{
+	text-decoration: none;
+	color: white;
+	padding: 5px;
+	border: 0px solid;
+	border-radius: 5px;
+}
+
